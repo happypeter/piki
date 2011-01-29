@@ -2,7 +2,7 @@
 layout: default
 ---
 <br />
-<h2 style="text-align:center">PIKI: Peter's Wiki</h2>
+<h1 style="text-align:center">PIKI: Peter's Wiki</h1>
 <br />
 
 I start [piki](/piki/pages/piki_name.html), becasue I love [linfo](http://www.linfo.org) too much, so that I really want
