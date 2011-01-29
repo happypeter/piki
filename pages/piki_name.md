@@ -1,5 +1,6 @@
 ---
 layout: page
+title: what is PIKI?
 ---
 piki is Peter's wiki
 
