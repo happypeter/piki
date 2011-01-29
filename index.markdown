@@ -5,7 +5,7 @@ layout: default
 <h2 style="text-align:center">piki</h2>
 <br />
 
-I start [piki](/piki/pages/piki_name.html), becasue I love <www.linfo.org> too much, so that I really want
+I start [piki](/piki/pages/piki_name.html), becasue I love [linfo](http://www.linfo.org) too much, so that I really want
 one for my own. 
 
 piki is Peter's personal knowledge base. It will follow linfo style, but I
