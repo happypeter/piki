@@ -3,4 +3,4 @@ layout: page
 title: What is Linux?
 ---
 
-Linux is a [open source](open_source.html) [operating system](operating_system.html).
+Linux is a [operating system](operating_system.html). And it is a piece of [OpenSource](open_source.html) software.
