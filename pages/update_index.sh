@@ -36,3 +36,9 @@ do
     echo '<br>'>>$OUTPUT
 
 done
+
+echo """
+***************
+index.html updated! Bye.
+***************
+"""
