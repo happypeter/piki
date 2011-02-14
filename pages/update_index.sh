@@ -27,15 +27,17 @@ echo """
 for file in `ls|grep md|sort`
 do
     shortname=`echo -n $file|awk -F"." '{print $1}'`
-    echo $shortname":&nbsp;&nbsp;&nbsp;&nbsp; " >>$OUTPUT
+    title=`cat $file|grep "title:"|awk -F":" '{print $2}'`
     echo -n '<a href="' >>$OUTPUT
     echo -n $shortname >>$OUTPUT
     echo -n '.html' >>$OUTPUT
     echo '">' >>$OUTPUT
-    title=`cat $file|grep "title:"|awk -F":" '{print $2}'`
-    echo -n $title >>$OUTPUT
+    echo -n $shortname >>$OUTPUT
     echo '</a>' >>$OUTPUT
     echo '<br>'>>$OUTPUT
+    echo "&nbsp;&nbsp;&nbsp;&nbsp;" $title >>$OUTPUT
+    echo >>$OUTPUT
+    echo '<br>' >>$OUTPUT
 
 done
 
