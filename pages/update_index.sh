@@ -40,6 +40,12 @@ do
     echo '<br>' >>$OUTPUT
 
 done
+echo """
+
+<br><br><br><br>
+Page updated on `date`, by <i>update_index.sh</i>
+
+""" >> $OUTPUT
 
 echo """
 ***************
