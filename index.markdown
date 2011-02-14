@@ -13,20 +13,23 @@ You may like piki, if you are new to [Linux](/piki/pages/linux.html).
 
 <p><br /><b>Check recently changes</b></p>
 
-<blockquote>
-The source of piki is on [github](https://github.com/happypeter/piki):
+<blockquote><p>
+The source of piki is on <a href="https://github.com/happypeter/piki"> Github
+</a>
 
+<code>
+<pre>
     git clone git://github.com/happypeter/piki.git
     git checkout origin/gh-pages
+</pre>
+</code>
 
-
-</blockquote>
+</blockquote></p>
 
 <p><br /><b>Site Contents:</b></p>
-
-<blockquote>
-[index](/piki/pages/index.html)
-</blockquote>
+<blockquote><p>
+<a href="http://happypeter.github.com/piki/pages/index.html">index</a>
+</blockquote></p>
 
 <p><br /><b>Contact Information:</b></p>
 
