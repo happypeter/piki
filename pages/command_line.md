@@ -18,7 +18,8 @@ be opened in a GUI (graphical user interface) display mode.
 
 A command is an instruction given by a human to tell a computer to do
 something. Commands are generally issued by typing them in at the command
-line and then pressing the ENTER key, which passes them to the shell. A
+line and then pressing the ENTER key, which passes them to the
+[shell](shell.html). A
 shell, also referred to as a command interpreter, is a program that reads
 commands that are typed on a keyboard and then executes (i.e., runs) them.
 
