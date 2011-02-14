@@ -16,6 +16,7 @@ You may like piki, if you are new to [Linux](/piki/pages/linux.html).
 The source of piki is on [github](https://github.com/happypeter/piki):
 
     git clone git://github.com/happypeter/piki.git
+    git checkout origin/gh-pages
 
 Any help will be appreciated. Have a github accout, contact me to add you as a
 collaborator to piki.
