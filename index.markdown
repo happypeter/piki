@@ -18,14 +18,18 @@ The source of piki is on [github](https://github.com/happypeter/piki):
     git clone git://github.com/happypeter/piki.git
     git checkout origin/gh-pages
 
-Any help will be appreciated. Have a github accout, contact me to add you as a
-collaborator to piki.
+<p><br /><b>Site Contents:</b></p>
+
+[index](/piki/pages/index.html)
 
 <p><br /><b>Contact Information:</b></p>
 
 <blockquote>
 <p>
 happypeter1983 at gmail.com
+<br>
+Any help will be appreciated. Have a github accout, contact me to add you as a
+collaborator to piki.
 </p>
 </blockquote>
 
