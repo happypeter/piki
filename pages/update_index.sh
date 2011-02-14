@@ -26,8 +26,10 @@ echo """
 """>$OUTPUT
 for file in `ls|grep md|sort`
 do
+    shortname=`echo -n $file|awk -F"." '{print $1}'`
+    echo $shortname":&nbsp;&nbsp;&nbsp;&nbsp; " >>$OUTPUT
     echo -n '<a href="' >>$OUTPUT
-    echo -n $file|awk -F"." '{print $1}' >>$OUTPUT
+    echo -n $shortname >>$OUTPUT
     echo -n '.html' >>$OUTPUT
     echo '">' >>$OUTPUT
     title=`cat $file|grep "title:"|awk -F":" '{print $2}'`
