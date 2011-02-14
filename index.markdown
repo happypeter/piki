@@ -13,7 +13,8 @@ You may like piki, if you are new to [Linux](/piki/pages/linux.html).
 
 <p><br /><b>Check recently changes</b></p>
 
-<blockquote><p>
+<blockquote>
+<p>
 The source of piki is on <a href="https://github.com/happypeter/piki"> Github
 </a>
 
@@ -23,13 +24,13 @@ The source of piki is on <a href="https://github.com/happypeter/piki"> Github
     git checkout origin/gh-pages
 </pre>
 </code>
-
-</blockquote></p>
+</p>
+</blockquote>
 
 <p><br /><b>Site Contents:</b></p>
 <blockquote><p>
 <a href="http://happypeter.github.com/piki/pages/index.html">index</a>
-</blockquote></p>
+</p> </blockquote>
 
 <p><br /><b>Contact Information:</b></p>
 
