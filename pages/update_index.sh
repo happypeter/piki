@@ -1,5 +1,11 @@
 #!/bin/bash
 
+echo """
+*******************
+This Program is used when you add a new page here, 
+and you want a new Entry for it in index.html
+*******************
+"""
 OUTPUT=index.html
 if [ -f $OUTPUT ]
 then
