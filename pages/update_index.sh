@@ -7,11 +7,6 @@ and you want a new Entry for it in index.html
 *******************
 """
 OUTPUT=index.html
-if [ -f $OUTPUT ]
-then
-    echo  rm old index.html
-    rm $OUTPUT
-fi
 
 echo """
 
@@ -43,7 +38,7 @@ done
 echo """
 
 <br><br><br><br>
-Page updated on `date`, by <i>update_index.sh</i>
+Page updated on `date +%F`, by <i>update_index.sh</i>
 
 """ >> $OUTPUT
 
