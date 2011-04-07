@@ -3,7 +3,7 @@ layout: page
 title: Linus
 ---
 
-“Intelligence is the ability to avoid doing work, yet getting the work done”
+"Intelligence is the ability to avoid doing work, yet getting the work done"
 
 
 ### Kernel summit 2008:
