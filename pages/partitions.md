@@ -36,3 +36,9 @@ bootable.
 And yes, that applied even if you only had Linux on the box.
 
 How lame.
+
+Edit: Windows requires primary partitions for certain purposes, including
+booting Windows. This is a Windows design limitation; Linux can boot just fine
+from a logical partition.
+
+http://en.wikipedia.org/wiki/Disk_partitioning
